@@ -9,7 +9,7 @@ MYCIN, um sistema de diagnóstico de infecções no sangue, se diferenciava do D
 
 # Sistemas Nebulosos / Fuzzy
 ## Sets Fuzzy
-Elementos de um set podem pertencer a vários graus variáveis de pertencimento. Ao contrário da teoria de sets convencional, num set fuzzy podemos aplicar conceitos como "baixa renda" ou "alta inflação" e "pequeno erro de aproximação", conceitos os quais a quantificação convencional de sim/não não são aplicáveis – ou quando aplicáveis se mostram superficiais e restritivos. [^2]
+Elementos de um set podem pertencer a vários graus variáveis de pertencimento. Ao contrário da teoria de sets convencional, num set fuzzy podemos aplicar conceitos como "baixa renda" ou "alta inflação" e "pequeno erro de aproximação", conceitos os quais a quantificação convencional de sim/não não são aplicáveis – ou quando aplicáveis se mostram superficiais e restritivos. <sup>[^2]</sup>
 O conceito de um Set Fuzzy foi definido por Zadeh (1965) de forma simples: Um set fuzzy A captura seus elementos ao designa-los com graus variáveis de pertencimento, quanto maior o grau de pertencimento  A(x), maior é o nível de pertencimento do elemento ao set A.
 Diferentemente do conceito de Sets tradicional , os sets Fuzzy oferecem transições suaves entre os limites de campos A e B de maneira ideal à captura de noções de pertencimento parcial.
 Os sets fuzzy surgem de maneiras fundamentalmente diferentes quando se trata de formulação e resolução de problemas:
