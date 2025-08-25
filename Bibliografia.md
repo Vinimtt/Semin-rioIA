@@ -1,0 +1,1 @@
+1. RUSSELL, Stuart J; NORVIG, Peter. **Inteligência artificial:** uma abordagem moderna. 4. Rio de Janeiro: GEN LTC, 2022. 1 recurso online.
