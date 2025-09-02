@@ -1,3 +1,7 @@
+https://docs.google.com/document/d/1LYIs-HuIGEAXJml5JW-lgOvk2qIniGeZBM-XjnCbWsA/edit?usp=sharing
+
+
+
 # Sistemas especialistas
 ## Método fraco
 mecanismo de busca de uso geral que procurava reunir passos elementares de raciocínio para encontrar soluções completas. Embora gerais, não podiam ter aumento de escala para instâncias grandes ou difíceis. "Podemos dizer que, para resolver um problema difícil, praticamente é necessário já saber a resposta."<sup>[^1] </sup>
